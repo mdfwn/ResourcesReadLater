@@ -58,3 +58,5 @@ http://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf - An 
 ## Python
 
 https://github.com/biancasubion/jupyshare - Jupyter Notebooks in the Cloud
+
+http://gouthamanbalaraman.com/blog/optimizing-python-numba-vs-cython.html - Python vs. Cython vs. Numba
