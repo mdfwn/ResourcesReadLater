@@ -34,12 +34,23 @@ https://arxiv.org/pdf/1706.04313v1.pdf - Teaching Compositionality to CNNs∗
 
 https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/ - Bias Variance Dilemma
 
+https://github.com/idiap/importance-sampling Importance Sampling
+
+https://arxiv.org/pdf/1708.02002.pdf Focal Loss For Dense Object Detection
+
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv Convolutional Neural Networks for Visual Recognition (Spring 2017)
+
 
 ## Pytorch
 
 https://github.com/jadore801120/attention-is-all-you-need-pytorch - Attention is all you need
 
 https://hackernoon.com/facial-similarity-with-siamese-networks-in-pytorch-9642aa9db2f7 - Siamese Networks
+
+
+## Tensorflow
+
+https://github.com/vahidk/EffectiveTensorflow Effective Tensorflow (Tutorials)
 
 
 ## Misc.
@@ -54,6 +65,8 @@ http://www.sumsar.net/blog/2017/05/introduction-to-bayesian-data-analysis-part-t
 http://www.cs.ubc.ca/~nando/papers/thesis.pdf - Bayesian Methods for Neural Networks
 
 http://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf - An introduction to Sequential Monte Carlo Methods
+
+https://ermongroup.github.io/cs228-notes/ introductory course on probabilistic graphical models (Stanford, 3 notes)
 
 ## Python
 
