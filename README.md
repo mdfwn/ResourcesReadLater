@@ -46,6 +46,12 @@ https://arxiv.org/abs/1709.01894 - Convolutional Gaussian Processes
 
 https://arxiv.org/pdf/1709.01412.pdf - Deep Learning Technical Introduction
 
+http://theorangeduck.com/page/neural-network-not-working - My Neural Network isn't working! What should I do?
+ 
+https://www.youtube.com/watch?v=bLqJHjXihK8  - 18. Information Theory of Deep Learning. Naftali Tishby
+
+https://sigmoidal.io/beginners-review-of-gan-architectures/ - 2017 Beginner's Review of GAN Architectures
+
 
 ## Pytorch
 
@@ -79,3 +85,5 @@ https://ermongroup.github.io/cs228-notes/ introductory course on probabilistic g
 https://github.com/biancasubion/jupyshare - Jupyter Notebooks in the Cloud
 
 http://gouthamanbalaraman.com/blog/optimizing-python-numba-vs-cython.html - Python vs. Cython vs. Numba
+
+https://www.reddit.com/r/MachineLearning/comments/6x6tln/p_artemis_a_python_package_for_organizing_your_ml/?st=j7bkxmf8&sh=3792e9b2 - Artemis, Python package for ML experiments
