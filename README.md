@@ -40,6 +40,12 @@ https://arxiv.org/pdf/1708.02002.pdf Focal Loss For Dense Object Detection
 
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv Convolutional Neural Networks for Visual Recognition (Spring 2017)
 
+https://arxiv.org/pdf/1709.01507.pdf (http://image-net.org/challenges/talks_2017/SENet.pdf) - Squeeze-and-Excitation Networks
+
+https://arxiv.org/abs/1709.01894 - Convolutional Gaussian Processes
+
+https://arxiv.org/pdf/1709.01412.pdf - Deep Learning Technical Introduction
+
 
 ## Pytorch
 
