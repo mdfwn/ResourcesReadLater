@@ -69,6 +69,8 @@ https://github.com/vahidk/EffectiveTensorflow Effective Tensorflow (Tutorials)
 
 https://github.com/lmcinnes/umap - Uniform Manifold Approximation and Projection (dim reduction better than T-SNE?)
 
+http://www.pnas.org/content/early/2017/08/28/1700770114.full.pdf - Robust continuous clustering
+
 
 ## Math
 
@@ -87,3 +89,5 @@ https://github.com/biancasubion/jupyshare - Jupyter Notebooks in the Cloud
 http://gouthamanbalaraman.com/blog/optimizing-python-numba-vs-cython.html - Python vs. Cython vs. Numba
 
 https://www.reddit.com/r/MachineLearning/comments/6x6tln/p_artemis_a_python_package_for_organizing_your_ml/?st=j7bkxmf8&sh=3792e9b2 - Artemis, Python package for ML experiments
+
+https://github.com/ilkarman/DeepLearningFrameworks/ - Neural Network in 7 different Frameworks
