@@ -59,6 +59,8 @@ https://github.com/jadore801120/attention-is-all-you-need-pytorch - Attention is
 
 https://hackernoon.com/facial-similarity-with-siamese-networks-in-pytorch-9642aa9db2f7 - Siamese Networks
 
+https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983 
+
 
 ## Tensorflow
 
