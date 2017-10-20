@@ -103,6 +103,8 @@ https://ermongroup.github.io/cs228-notes/ introductory course on probabilistic g
 
 https://blog.statsbot.co/bayesian-nonparametrics-9f2ce7074b97 - Bayesian Non-Parametrics
 
+https://drive.google.com/file/d/0B653sCwrWAVNOE1ZTFBJUlRybGc/view - ???
+
 ## Python
 
 https://github.com/biancasubion/jupyshare - Jupyter Notebooks in the Cloud
