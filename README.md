@@ -52,6 +52,23 @@ https://www.youtube.com/watch?v=bLqJHjXihK8  - 18. Information Theory of Deep Le
 
 https://sigmoidal.io/beginners-review-of-gan-architectures/ - 2017 Beginner's Review of GAN Architectures
 
+https://arxiv.org/abs/1710.05941 - Swift activation function
+
+https://github.com/ilkarman/DeepLearningFrameworks/#rnn-gru-on-imdb---natural-language-processing-sentiment-analysis - RNNs/CNNs implemented in different frameworks
+
+https://arxiv.org/pdf/1710.05468.pdf - Generalization in Deep Learning (Bengio)
+
+https://arxiv.org/abs/1710.04773 - Residual Connections Encourage Iterative Inference
+
+https://arxiv.org/abs/1710.06451 - Understanding Generalization and Stochastic Gradient Descent
+
+https://blog.statsbot.co/real-time-object-detection-yolo-cd348527b9b7 - Improving YOLO
+
+http://www.mitpressjournals.org/doi/pdf/10.1162/neco_a_00990 - Deep Convolutional Neural Networks for Image Classification: A Comprehensive Review
+
+https://arxiv.org/pdf/1710.05381.pdf - A systematic study of the class imbalance problem in convolutional neural networks
+
+https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW - Deep Learning: Theory, Algorithms, Application. Video Series.
 
 ## Pytorch
 
@@ -83,6 +100,8 @@ http://www.cs.ubc.ca/~nando/papers/thesis.pdf - Bayesian Methods for Neural Netw
 http://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf - An introduction to Sequential Monte Carlo Methods
 
 https://ermongroup.github.io/cs228-notes/ introductory course on probabilistic graphical models (Stanford, 3 notes)
+
+https://blog.statsbot.co/bayesian-nonparametrics-9f2ce7074b97 - Bayesian Non-Parametrics
 
 ## Python
 
