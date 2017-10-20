@@ -114,3 +114,5 @@ http://gouthamanbalaraman.com/blog/optimizing-python-numba-vs-cython.html - Pyth
 https://www.reddit.com/r/MachineLearning/comments/6x6tln/p_artemis_a_python_package_for_organizing_your_ml/?st=j7bkxmf8&sh=3792e9b2 - Artemis, Python package for ML experiments
 
 https://github.com/ilkarman/DeepLearningFrameworks/ - Neural Network in 7 different Frameworks
+
+http://intermediatepythonista.com/
