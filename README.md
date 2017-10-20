@@ -78,6 +78,8 @@ https://hackernoon.com/facial-similarity-with-siamese-networks-in-pytorch-9642aa
 
 https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983 
 
+https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M - PyTorch Mini Lectures (12 Slides)
+
 
 ## Tensorflow
 
