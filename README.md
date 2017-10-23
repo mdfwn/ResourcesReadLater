@@ -92,6 +92,10 @@ https://github.com/lmcinnes/umap - Uniform Manifold Approximation and Projection
 
 http://www.pnas.org/content/early/2017/08/28/1700770114.full.pdf - Robust continuous clustering
 
+## Keras
+
+https://myurasov.github.io/2017/09/24/wasserstein-gan-keras.html?r - Wasserstein GAN in Keras
+
 
 ## Math
 
