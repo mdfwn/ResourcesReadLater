@@ -111,6 +111,10 @@ https://blog.statsbot.co/bayesian-nonparametrics-9f2ce7074b97 - Bayesian Non-Par
 
 https://drive.google.com/file/d/0B653sCwrWAVNOE1ZTFBJUlRybGc/view - ???
 
+https://arxiv.org/pdf/1710.07406.pdf - First Order Methods Almost Always Avoid Saddle Points
+
+https://psyarxiv.com/85ywt - Introduction to the concept of likelihood and its applications
+
 ## Python
 
 https://github.com/biancasubion/jupyshare - Jupyter Notebooks in the Cloud
