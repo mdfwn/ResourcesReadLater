@@ -73,6 +73,10 @@ https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW - Deep 
 
 https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems - SOTA resources
 
+http://blog.christianperone.com/2017/11/the-effective-receptive-field-on-cnns/
+
+https://joshgreaves.com/reinforcement-learning/introduction-to-reinforcement-learning/
+
 ## Pytorch
 
 https://github.com/jadore801120/attention-is-all-you-need-pytorch - Attention is all you need
