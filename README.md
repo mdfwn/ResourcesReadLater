@@ -70,6 +70,9 @@ https://arxiv.org/pdf/1710.05381.pdf - A systematic study of the class imbalance
 
 https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW - Deep Learning: Theory, Algorithms, Application. Video Series.
 
+
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems - SOTA resources
+
 ## Pytorch
 
 https://github.com/jadore801120/attention-is-all-you-need-pytorch - Attention is all you need
@@ -95,6 +98,21 @@ http://www.pnas.org/content/early/2017/08/28/1700770114.full.pdf - Robust contin
 ## Keras
 
 https://myurasov.github.io/2017/09/24/wasserstein-gan-keras.html?r - Wasserstein GAN in Keras
+
+https://github.com/XifengGuo/CapsNet-Keras - CapsNet
+
+https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d - Keras + Horovod (distributed learning)
+
+
+## Capsules
+
+https://arxiv.org/pdf/1710.09829.pdf Paper
+
+https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
+
+https://medium.com/mlreview/deep-neural-network-capsules-137be2877d44
+
+https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737
 
 
 ## Math
