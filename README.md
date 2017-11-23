@@ -112,6 +112,8 @@ https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-ster
 
 https://arxiv.org/pdf/1710.09829.pdf Paper
 
+https://www.youtube.com/watch?v=pPN8d0E3900 - Very good video
+
 https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
 
 https://medium.com/mlreview/deep-neural-network-capsules-137be2877d44
