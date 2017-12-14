@@ -150,3 +150,17 @@ https://www.reddit.com/r/MachineLearning/comments/6x6tln/p_artemis_a_python_pack
 https://github.com/ilkarman/DeepLearningFrameworks/ - Neural Network in 7 different Frameworks
 
 http://intermediatepythonista.com/
+
+# December 2017
+
+https://github.com/explosion/lightnet - Python Interface for Yolo
+
+https://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html  
+
+http://learningsys.org/nips17/assets/slides/dean-nips17.pdf - Jeff Dean
+
+https://arxiv.org/pdf/1710.09412.pdf Mixup Paper (reduce memorization and adversarial errors)
+
+https://github.com/leehomyc/mixup_pytorch Mixup PyTorch
+
+https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0 T-SNE to visualize how DNN thinks
