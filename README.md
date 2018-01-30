@@ -164,3 +164,41 @@ https://arxiv.org/pdf/1710.09412.pdf Mixup Paper (reduce memorization and advers
 https://github.com/leehomyc/mixup_pytorch Mixup PyTorch
 
 https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0 T-SNE to visualize how DNN thinks
+
+# January 2018
+
+http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html - The Matrix Calculus You Need For Deep Learning
+
+https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/ - Scalable Keras Deep Learning Rest API
+
+https://ee227c.github.io/code/lecture4.html - Notes on Optimization (full lecture https://ee227c.github.io/)
+
+https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188 - How to build your own AlphaZero AI using Python and Keras
+
+https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning - Autonomous Driving in Keras
+
+https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e - Solving 90% of NLP problems, Step-by-Step
+
+https://www.kaggle.com/learn/overview - Kaggle Learning Platform
+
+http://www.inference.vc/sharp-vs-flat-minima-are-still-a-mystery-to-me/ - Generalization Mystery, Sharp vs Flat Minima
+
+https://github.com/emilwallner/Screenshot-to-code-in-Keras - Turning Website Mockup into Code
+
+https://chrischoy.github.io/research/Matric-Calculus/ - Short Note on Matrix Differentials and Backpropagation
+
+https://github.com/jwyang/faster-rcnn.pytorch - PyTorch Faster-RCNN
+
+https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V - Nonlinear Dynamics & Chaos Lectures
+
+https://github.com/uber/horovod/blob/master/examples/keras_imagenet_resnet50.py - Resnet50 training in Keras + Horovod
+
+https://github.com/vincentherrmann/pytorch-wavenet/blob/master/WaveNet_demo.ipynb - PyTorch Wavenet Demo
+
+https://www.zabaras.com/statisticalcomputing - Statistical Computing for Scientists and Engineers
+
+https://medium.com/@hamedmp/exporting-trained-tensorflow-models-to-c-the-right-way-cf24b609d183 - Exporting TF model to C++
+
+https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.p - Tensorflow tf.data Slides
+
+https://arxiv.org/abs/1712.07628 - Improving Generalization Performance by Switching from Adam to SGD
