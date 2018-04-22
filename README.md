@@ -202,3 +202,65 @@ https://medium.com/@hamedmp/exporting-trained-tensorflow-models-to-c-the-right-w
 https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.p - Tensorflow tf.data Slides
 
 https://arxiv.org/abs/1712.07628 - Improving Generalization Performance by Switching from Adam to SGD
+
+# February - April 2018
+
+https://arxiv.org/pdf/1705.09914.pdf
+
+https://arxiv.org/pdf/1711.10284.pdf - Between-class Learning for Image classification
+
+http://davischallenge.org/challenge2017/papers/DAVIS-Challenge-6th-Team.pdf - Learning to Segment Instances in Videos with Spatial Propagation Network
+
+http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
+
+https://www.arxiv-vanity.com/
+
+https://github.com/divamgupta/image-segmentation-keras
+
+https://arxiv.org/pdf/1703.02628.pdf - Global Optimization of Lipschitz Functions
+
+https://christophm.github.io/interpretable-ml-book/
+
+http://bayesiandeeplearning.org/
+
+https://www.arxiv-vanity.com/papers/1712.04741/ - Mathematics of Deep Learning
+
+http://www.robots.ox.ac.uk/~vgg/decathlon/
+
+https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0
+
+http://bridg.land/posts/gaussian-processes-1
+
+https://arxiv.org/abs/1712.07628 - https://arxiv.org/abs/1712.07628
+
+https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html - From GAN to WGAN
+
+https://github.com/arogozhnikov/python3_with_pleasure
+
+http://www.fast.ai/2018/01/26/v2-launch/
+
+https://www.kaggle.com/learn/overview
+
+http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/ - Bayesian Methods for Hackers
+
+http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+
+https://arxiv.org/abs/1707.06175 - DPM Conv Nets
+
+http://noahgolmant.com/avoiding-saddle-points.html
+
+https://medium.com/twentybn/building-a-gesture-recognition-system-using-deep-learning-video-d24f13053a1
+
+https://int8.io/monte-carlo-tree-search-beginners-guide/
+
+https://medium.com/@sozercan/tensorflow-object-detection-on-azure-part-2-using-kubernetes-to-run-distributed-tensorflow-ced5b9a6184a
+
+https://arxiv.org/pdf/1711.08141.pdf
+
+https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+
+https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
+
+http://akosiorek.github.io/ml/2018/04/03/norm_flows.html
+
+https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b
