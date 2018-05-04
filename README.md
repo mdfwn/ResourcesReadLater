@@ -264,3 +264,7 @@ https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
 http://akosiorek.github.io/ml/2018/04/03/norm_flows.html
 
 https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b
+
+# May 2018
+
+https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3 - Cython, C, Python
