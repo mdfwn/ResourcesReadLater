@@ -268,3 +268,5 @@ https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b
 # May 2018
 
 https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3 - Cython, C, Python
+
+https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f 50 Lines GAN in PyTorch
