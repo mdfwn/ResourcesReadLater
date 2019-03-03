@@ -272,3 +272,75 @@ https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python
 https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f 50 Lines GAN in PyTorch
 
 https://mml-book.github.io/ - Math for ML
+
+# March 2019
+
+https://github.com/fritzlabs/fritz-models (A collection of machine and deep learning models designed to run on mobile device)
+
+https://arxiv.org/abs/1810.09538 (Pyro Arxive Paper)
+
+https://colinraffel.com/blog/you-don-t-know-jax.html
+
+https://arxiv.org/pdf/1811.08883.pdf (Rethinking Imagenet Pretraining [FAIR Paper])
+
+https://github.com/pytorch/ignite
+
+https://github.com/gidariss/FewShotWithoutForgetting
+
+https://speakerdeck.com/perone/pytorch-under-the-hood
+
+https://colab.research.google.com/github/google/jax/blob/master/notebooks/neural_network_and_data_loading.ipynb (Jax)
+
+https://arxiv.org/pdf/1812.01216.pdf (Parameter Re-Initialization through Cyclical BatchSize Schedules)
+
+https://arxiv.org/pdf/1811.10959.pdf (Dataset Distillation)
+
+https://arxiv.org/pdf/1811.12231v1.pdf (Imagenet pretrained networks biased towards textures)
+
+https://arxiv.org/pdf/1805.11604.pdf (How does BatchNorm help Optimization)
+
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Pei_Wang_Towards_Realistic_Predictors_ECCV_2018_paper.pdf
+
+https://github.com/peiwang062/end2end_realistic_predictors
+
+https://twistedkeyboardsoftware.com/?p=147 (Bandit Swarm Networks)
+
+https://arxiv.org/pdf/1712.06080v1.pdf (Scene Understanding)
+
+https://arxiv.org/pdf/1812.07179.pdf (Pseudo-LiDAR from Visual Depth Estimation:Bridging the Gap in 3D Object Detection for Autonomous Driving)
+
+https://arxiv.org/pdf/1709.04347v2.pdf (Zoom in out object detection)
+
+https://github.com/lexfridman/mit-deep-learning
+
+https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb
+
+https://arxiv.org/pdf/1901.01341.pdf (Shieves - Topological Approach to Big Data)
+
+https://arxiv.org/abs/1810.12894 (Exploration by Random Network Distillaton)
+
+https://arxiv.org/pdf/1811.03804.pdf (Gradient Descent Finds Global Minima)
+
+http://deepbayes.ru/2018/
+
+https://www.lyrn.ai/2018/12/21/slowfast-dual-mode-cnn-for-video-understanding/
+
+https://arxiv.org/pdf/1812.04914.pdf
+
+https://www.reddit.com/r/MachineLearning/comments/a7egt8/d_whats_a_good_way_of_getting_started_with/?st=jqdyaz7s&sh=19ad3f50
+
+https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
+
+https://arxiv.org/pdf/1710.11029.pdf (STOCHASTIC GRADIENT DESCENT PERFORMS VARIATIONALINFERENCE,CONVERGES TO LIMIT CYCLES FOR DEEP NETWORKS)
+
+https://github.com/kumar-shridhar/PyTorch-BayesianCNN
+
+https://github.com/tomgoldstein/loss-landscape
+
+https://github.com/SimonKohl/probabilistic_unet
+
+https://medium.com/bethgelab/neural-networks-seem-to-follow-a-puzzlingly-simple-strategy-to-classify-images-f4229317261f
+
+https://github.com/bluesky314/Cyclical_LR_Scheduler_With_Decay_Pytorch
+
+
