@@ -366,3 +366,13 @@ https://medium.com/google-cloud/how-to-run-deep-learning-models-on-google-cloud-
 http://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/
 
 https://towardsdatascience.com/understanding-the-scaling-of-l%C2%B2-regularization-in-the-context-of-neural-networks-e3d25f8b50db
+
+http://www.stats.ox.ac.uk/~teh/research/npbayes/Teh2010a.pdf (Dirichlet Process)
+
+https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
+
+https://kevinbinz.com/2014/06/12/an-introduction-to-bayesian-inference/
+
+https://xcelab.net/rm/statistical-rethinking/
+
+
