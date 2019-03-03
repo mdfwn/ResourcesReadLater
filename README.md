@@ -343,4 +343,26 @@ https://medium.com/bethgelab/neural-networks-seem-to-follow-a-puzzlingly-simple-
 
 https://github.com/bluesky314/Cyclical_LR_Scheduler_With_Decay_Pytorch
 
+http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf (A Unifying Review of Linear Gaussian Models)
 
+https://mml-book.github.io/
+
+https://medium.com/causal-data-science/causal-data-science-721ed63a4027 (Causal Data Science)
+
+https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa
+
+http://rail.eecs.berkeley.edu/deeprlcourse/
+
+https://www.kdnuggets.com/2016/08/tutorial-expectation-maximization-algorithm.html
+
+https://explained.ai/gradient-boosting/index.html
+
+http://fa.bianp.net/blog/2018/fw2/ Notes on the Frank-Wolfe Algorithm, Part II: A Primal-dual Analysis
+
+https://github.com/VietTran86/Copula-Variational-Bayes
+
+https://medium.com/google-cloud/how-to-run-deep-learning-models-on-google-cloud-platform-in-6-steps-4950a57acfa5
+
+http://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/
+
+https://towardsdatascience.com/understanding-the-scaling-of-l%C2%B2-regularization-in-the-context-of-neural-networks-e3d25f8b50db
