@@ -375,4 +375,50 @@ https://kevinbinz.com/2014/06/12/an-introduction-to-bayesian-inference/
 
 https://xcelab.net/rm/statistical-rethinking/
 
+## July 2019
 
+https://www.tensorflow.org/beta/tutorials/generative/cyclegan
+
+https://myrtle.ai/learn/how-to-train-your-resnet-6-weight-decay/
+
+https://www.tensorflow.org/beta/tutorials/generative/adversarial_fgsm
+
+https://colab.research.google.com/github/davidcpage/cifar10-fast/blob/master/batch_norm_post.ipynb#scrollTo=MScciU2Ivinn
+
+https://colab.research.google.com/github/reiinakano/adversarially-robust-neural-style-transfer/blob/master/Robust_Neural_Style_Transfer.ipynb
+
+https://github.com/xinshuoweng/AB3DMOT - A Baseline for 3D Multi-Object Tracking
+
+https://paperswithcode.com/paper/unsupervised-data-augmentation (https://github.com/google-research/uda)
+
+https://paperswithcode.com/paper/random-erasing-data-augmentation
+
+https://github.com/ddbourgin/numpy-ml
+
+https://weightagnostic.github.io/papers/turing1948.pdf (Turing Paper)
+
+https://francisbach.com/the-%ce%b7-trick-or-the-effectiveness-of-reweighted-least-squares/
+
+https://locuslab.github.io/2019-07-09-uniform-convergence/ (Uniform convergence may be unable to explain generalization in deep learning)
+
+https://users.aalto.fi/~ssarkka/pub/cup_book_online_20131111.pdf (Bayesian Filtering and Smoothing)
+
+http://www.stats.ox.ac.uk/~steffen/teaching/bs2HT9/kalman.pdf (Kalman Slides)
+
+https://github.com/ispgroupucl/layer-rotation-paper-experiments
+
+https://gist.github.com/jctosta/af918e1618682638aa82 (Screen Quick Reference)
+
+https://deepgenerativemodels.github.io/
+
+https://imbalanced-learn.readthedocs.io/en/stable/api.html
+
+https://arxiv.org/pdf/1906.07413v1.pdf
+
+https://towardsdatascience.com/few-shot-learning-in-cvpr19-6c6892fc8c5 (Overview of FewShotLearning Papers in CVPR19)
+
+https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
+https://towardsdatascience.com/get-started-with-using-cnn-lstm-for-forecasting-6f0f4dde5826
+
+http://www.econ.uiuc.edu/~roger/research/rq/rq.pdf (Quantile Regression)
