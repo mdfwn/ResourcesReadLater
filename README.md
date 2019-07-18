@@ -422,3 +422,5 @@ https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 https://towardsdatascience.com/get-started-with-using-cnn-lstm-for-forecasting-6f0f4dde5826
 
 http://www.econ.uiuc.edu/~roger/research/rq/rq.pdf (Quantile Regression)
+
+https://www.youtube.com/watch?v=IqQT8se9ofQ (Keras HyperOpt)
